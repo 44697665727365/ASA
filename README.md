@@ -39,8 +39,8 @@
 
 ## Community
 
-- **UnknownCheats Thread**: [Visit here](https://www.unknowncheats.me/forum/) *(Insert your direct thread link)*
-- **Discord Server**: [Join here](https://discord.gg/your-invite-code) *(Replace with actual invite)*
+- **UnknownCheats Thread**: [Visit here](https://www.unknowncheats.me/forum/)
+- **Discord Server**: [Join here](https://discord.gg/smkp2928TQ)
 
 ## Disclaimer
 
